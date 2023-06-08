@@ -7,3 +7,4 @@ Requires user compilation
 
 To do:
   Add counter to deck to track current card position
+  Add subroutine to shuffle deck after 80 percent of the deck has been used
