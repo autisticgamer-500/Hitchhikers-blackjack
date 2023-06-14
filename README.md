@@ -25,3 +25,7 @@ To do:
     Create vector assets for cards
 
     Create cards
+    
+    Design interface
+    
+    Create and code interface
